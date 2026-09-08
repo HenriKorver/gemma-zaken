@@ -24,11 +24,11 @@ Hieronder de links naar de specificatie en documentatie van de API's:
 
 [referentielijsten-1.0.0-redoc]: https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/VNG-referentielijsten/master/src/openapi.yaml&nocors
 
-### ZGW 1.8 release
+### ZGW 1.8 concept versie
 
-| Onderdeel              | ZGW 1.7 release &nbsp;              | ZGW 1.8 release &nbsp;                 | Aanvullende spec &nbsp;                                  | Release notes  &nbsp;                  |
+| Onderdeel              | ZGW 1.7 release &nbsp;              | ZGW 1.8 concept versie &nbsp;                 | Aanvullende spec &nbsp;                                  | Release notes  &nbsp;                  |
 | :--------------------- | :---------------------------------- | :------------------------------------- | :------------------------------------------------------- | :------------------------------------- |
-| Zaken API              | [1.7.0](./zaken/redoc-1.7.0.md)     | [1.8.0](./zaken/redoc-1.8.0.md)        | [1.8.0](./zaken/zrc/1.7.x/1.8.0/specification.md)        | [1.8.0](./zaken/release_notes.md)      |
+| Zaken API              | [1.7.0](./zaken/redoc-1.7.0.md)     | [1.8.0](./zaken/redoc-1.8.0.md)        | [1.8.0](./zaken/zrc/1.8.x/1.8.0/specification.md)        | [1.8.0](./zaken/release_notes.md)      |
 | Catalogi API           | [1.3.3](./catalogi/redoc-1.3.3.md)  | [1.4.0](./catalogi/redoc-1.4.0.md)     | [1.4.0](./catalogi/ztc/1.4.x/1.4.0/specification.md)     | [1.4.0](./catalogi/release_notes.md)   |
 | Documenten API  &nbsp; | [1.7.0](./documenten/redoc-1.7.0)   | [1.8.0](./documenten/redoc-1.8.0.md)   | [1.8.0](./documenten/index.md#specificatie-van-gedrag)   | [1.8.0](./documenten/release_notes.md) |
 | Besluiten API          | [1.1.0](./besluiten/redoc-1.1.0.md) | [1.1.0](./besluiten/redoc-1.1.0.md)    | [1.1.0](./besluiten/index.md#specificatie-van-gedrag)    | -                                      |

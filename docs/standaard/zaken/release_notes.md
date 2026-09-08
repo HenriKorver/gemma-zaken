@@ -7,6 +7,10 @@ layout: page-with-side-nav
 
 # Release notes Zaken API
 
+## Versie 1.8.0
+
+- PUT operatie toegevoed aan endpoint `/rollen`. Zie issue [#1835](https://github.com/VNG-Realisatie/gemma-zaken/issues/1835) en pull request [#2645](https://github.com/VNG-Realisatie/gemma-zaken/pull/2645).
+
 ## Versie 1.7.0
 
 - Waarschuwingsmelding als een zaakeigenschap niet voldoet aan zijn specificatie in de Catalogi API ([#2591](https://github.com/VNG-Realisatie/gemma-zaken/issues/2591))

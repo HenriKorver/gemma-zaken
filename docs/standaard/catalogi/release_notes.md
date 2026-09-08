@@ -1,10 +1,16 @@
 ---
 title: "Release Notes Catalogi API"
-date: '05-10-2023'
 weight: 10
 layout: page-with-side-nav
 ---
 # Release Notes Catalogi API
+
+## Versie 1.4.0
+
+- Op diverse plekken property Any vervangen door een expliciete lijst van attributen. Zie issue [#2644](https://github.com/VNG-Realisatie/gemma-zaken/issues/2644) en pull request [#2646](https://github.com/VNG-Realisatie/gemma-zaken/pull/2646).
+- Attribuut "servicenorm" op default waarde `null` gezet. Zie issue [#2625](https://github.com/VNG-Realisatie/gemma-zaken/issues/2625) en commit [debc040](https://github.com/VNG-Realisatie/gemma-zaken/commit/debc040f185622c6a9c903e51ff5ac60e14c9115).
+- DELETE operatie toegevoegd aan endpoint `catalogussen`. Zie issue [#2620](https://github.com/VNG-Realisatie/gemma-zaken/issues/2620) en commit [8b57aec](https://github.com/VNG-Realisatie/gemma-zaken/commit/8b57aec65af7453edd84c78e8f3f2ef4309741be).
+- 
 
 ## Versie 1.3.3
 
