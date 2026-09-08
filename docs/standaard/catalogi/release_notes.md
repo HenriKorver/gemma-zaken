@@ -9,8 +9,9 @@ layout: page-with-side-nav
 
 - Op diverse plekken property Any vervangen door een expliciete lijst van attributen. Zie issue [#2644](https://github.com/VNG-Realisatie/gemma-zaken/issues/2644) en pull request [#2646](https://github.com/VNG-Realisatie/gemma-zaken/pull/2646).
 - Attribuut "servicenorm" op default waarde `null` gezet. Zie issue [#2625](https://github.com/VNG-Realisatie/gemma-zaken/issues/2625) en commit [debc040](https://github.com/VNG-Realisatie/gemma-zaken/commit/debc040f185622c6a9c903e51ff5ac60e14c9115).
-- DELETE operatie toegevoegd aan endpoint `catalogussen`. Zie issue [#2620](https://github.com/VNG-Realisatie/gemma-zaken/issues/2620) en commit [8b57aec](https://github.com/VNG-Realisatie/gemma-zaken/commit/8b57aec65af7453edd84c78e8f3f2ef4309741be).
-- 
+- DELETE operatie toegevoegd aan endpoint `/catalogussen`. Zie issue [#2620](https://github.com/VNG-Realisatie/gemma-zaken/issues/2620) en commit [8b57aec](https://github.com/VNG-Realisatie/gemma-zaken/commit/8b57aec65af7453edd84c78e8f3f2ef4309741be).
+- Attribuut `indicatieSpecifiek` is deprecated gemaakt omdat de bedoeling ervan niet duidelijk is. Zie issue [#2543](https://github.com/VNG-Realisatie/gemma-zaken/issues/2543) en commit [18c471c](https://github.com/VNG-Realisatie/gemma-zaken/commit/18c471cfc60c8d94b28a0aeace1b98c279a1e8eb)
+- Attributen statustypen, resultaattypen en resultaatypeOmschrijving deprecated gemaakt in de respons van zaakobjecttypen. Zie issue [#2501](https://github.com/VNG-Realisatie/gemma-zaken/issues/2501) en commit [7fc87da](https://github.com/VNG-Realisatie/gemma-zaken/commit/7fc87da603f25fc98b6c113987f41ec1d4e3a6d2)
 
 ## Versie 1.3.3
 
