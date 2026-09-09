@@ -24,9 +24,11 @@ Hieronder de links naar de specificatie en documentatie van de API's:
 
 [referentielijsten-1.0.0-redoc]: https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/VNG-referentielijsten/master/src/openapi.yaml&nocors
 
-### ZGW 1.8 concept versie
+### ZGW 1.8 concept
 
-| Onderdeel              | ZGW 1.7 release &nbsp;              | ZGW 1.8 concept versie &nbsp;                 | Aanvullende spec &nbsp;                                  | Release notes  &nbsp;                  |
+Dit is de concept-versie van ZGW 1.8 voor de consultatie.
+
+| Onderdeel              | ZGW 1.7 release &nbsp;              | ZGW 1.8 concept &nbsp;                 | Aanvullende spec &nbsp;                                  | Release notes  &nbsp;                  |
 | :--------------------- | :---------------------------------- | :------------------------------------- | :------------------------------------------------------- | :------------------------------------- |
 | Zaken API              | [1.7.0](./zaken/redoc-1.7.0.md)     | [1.8.0](./zaken/redoc-1.8.0.md)        | [1.8.0](./zaken/zrc/1.8.x/1.8.0/specification.md)        | [1.8.0](./zaken/release_notes.md)      |
 | Catalogi API           | [1.3.3](./catalogi/redoc-1.3.3.md)  | [1.4.0](./catalogi/redoc-1.4.0.md)     | [1.4.0](./catalogi/ztc/1.4.x/1.4.0/specification.md)     | [1.4.0](./catalogi/release_notes.md)   |
@@ -34,6 +36,14 @@ Hieronder de links naar de specificatie en documentatie van de API's:
 | Besluiten API          | [1.1.0](./besluiten/redoc-1.1.0.md) | [1.1.0](./besluiten/redoc-1.1.0.md)    | [1.1.0](./besluiten/index.md#specificatie-van-gedrag)    | -                                      |
 | Autorisaties API       | [1.1.0](./autorisaties/redoc-1.1.0) | [1.1.0](./autorisaties/redoc-1.1.0)    | [1.1.0](./autorisaties/index.md#specificatie-van-gedrag) | -                                      |
 | Notificaties API       | [1.0.1](./notificaties/redoc-1.0.1) | [1.1.0](./notificaties/redoc-1.1.0.md) | [1.1.0](./notificaties/index.md#specificatie-van-gedrag) | [1.1.0](./notificaties/index.md)        |
+
+Let op:
+
+- De Besluiten API en de Autorisaties API zijn als enige niet gewijzigd en hebben  dezelfde versie behouden en hebben dus ook geen release notes.
+
+In de ZGW 1.8 concept-versie zijn de volgende issues verwerkt:
+
+- [Issuelijst "Milestone ZGW 1.8"](https://github.com/VNG-Realisatie/gemma-zaken/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A%22ZGW%201.8%22)
 
 ### ZGW 1.7 release
 
