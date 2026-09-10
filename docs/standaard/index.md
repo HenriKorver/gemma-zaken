@@ -43,7 +43,7 @@ Let op:
 
 In de concept-versie van de ZGW September release zijn de volgende issues verwerkt:
 
-- [Issuelijst "Milestone ZGW 1.8"](https://github.com/VNG-Realisatie/gemma-zaken/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A%22ZGW%201.8%22)
+- [Issuelijst "ZGW September release"](https://github.com/VNG-Realisatie/gemma-zaken/issues?q=is%3Aissue%20state%3Aopen%20milestone%3A%22ZGW%201.8%22)
 
 ### ZGW 1.7 release
 
