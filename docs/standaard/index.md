@@ -25,6 +25,7 @@ Hieronder de links naar de specificatie en documentatie van de API's:
 [referentielijsten-1.0.0-redoc]: https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/VNG-referentielijsten/master/src/openapi.yaml&nocors
 
 ### ZGW September release (concept)
+<!-- #zgw-september-release-concept -->
 
 Dit is de concept-versie van de ZGW September release die binnenkort in consultatie zal gaan.
 
