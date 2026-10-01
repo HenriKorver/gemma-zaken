@@ -27,7 +27,7 @@ Hieronder de links naar de specificatie en documentatie van de API's:
 ### ZGW September 2026 release
 <!-- #zgw-september-2026-release -->
 
-Hieronder een overzicht met directe links naar de onderdelen van de ZGW September release. Om goed de verschillen te zien met de vorige ZGW 1.7 release, zijn ook de links naar de onderdelen van die release in deze tabel opgenomen.
+Hieronder een overzicht met directe links naar de onderdelen van de ZGW September 2026 release. Om goed de verschillen te zien met de vorige ZGW 1.7 release, zijn ook de links naar de onderdelen van die release in deze tabel opgenomen.
 
 | Onderdeel              | ZGW 1.7 release  &nbsp;             | ZGW September 2026 &nbsp;              | Aanvullende spec &nbsp;                                  | Release notes  &nbsp;                  |
 | :--------------------- | :---------------------------------- | :------------------------------------- | :------------------------------------------------------- | :------------------------------------- |
